@@ -1,5 +1,7 @@
 😡 MS Edge sucks, deleted all my groups and tabs from an unscheduled restart 🤬
 
+⚠️ Work in Progress: kinda broken atm ⚠️
+
 Project Structure and Setup
 
 To get this working, organize the files into the following folder structure.
