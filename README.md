@@ -2,6 +2,7 @@ Project Structure and Setup
 
 To get this working, organize the files into the following folder structure.
 
+```
 /TabGroupKeeper/
 ├── icons/
 │   ├── icon16.png
@@ -12,6 +13,7 @@ To get this working, organize the files into the following folder structure.
 ├── popup.css
 ├── popup.html
 └── popup.js
+```
 
 You will need to create the icons folder and place three icon files inside it. You can create simple placeholder images for now.
 How to Load the Extension in Microsoft Edge
